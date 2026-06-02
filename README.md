@@ -1,4 +1,4 @@
-# Agentic Dashboard UI
+#  Dashboard UI
 
 This is a multi-step interactive React dashboard built with Vite, Tailwind CSS, and Framer Motion. It features a responsive UI with animations simulating an AI Agent orchestrating supply chain operations.
 
